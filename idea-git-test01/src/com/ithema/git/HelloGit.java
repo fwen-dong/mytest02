@@ -14,4 +14,9 @@ public class HelloGit {
         int i=0;
         i+=10;
     }
+
+    public static void test01(){
+        int i=0;
+        i+=10;
+    }
 }
